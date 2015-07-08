@@ -1,0 +1,1 @@
+The Query2FrontEnd and Query2HBaseFrontEnd have code for both the front-end (undertow) and back-end (MySQL or HBase access).
